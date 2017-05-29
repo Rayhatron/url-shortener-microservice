@@ -1,0 +1,22 @@
+{
+  "name": "url-shortener-microservice",
+  "version": "1.0.0",
+  "description": "A microservice that will take a url as a parameter, shorten it and then allow the user to visit the original url by visiting the shortened url. ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rayhatron/url-shortener-microservice.git"
+  },
+  "author": "Rayhatron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rayhatron/url-shortener-microservice/issues"
+  },
+  "homepage": "https://github.com/Rayhatron/url-shortener-microservice#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
