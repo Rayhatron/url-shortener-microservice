@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Rayhatron/url-shortener-microservice#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "mongoose": "^4.10.3"
   }
 }
